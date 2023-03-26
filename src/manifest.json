@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Task Manager",
+    "version":"1.0.1",
+    "description":"task manager to log takss that are most important to you!",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Task manager"
+    },
+    "icons":{
+        "16":"logo.svg",
+        "48":"logo.svg",
+        "128":"logo.svg"
+    }
+}

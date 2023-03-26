@@ -71,7 +71,7 @@ function App() {
   }
 
   return (
-    <div className="min-w-screen min-h-screen">
+    <div className="w-[600px] h-[800px]">
       <main className='container mx-auto border shadow rounded mt-8'>
         <div className=' px-6 py-8 '>
           {/* header */}
